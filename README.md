@@ -9,3 +9,4 @@ For each new GPU generation, we have to crease ISA_def file that specifies the S
 We were able to generate these files using the NVIDIA's CUDA Binary Utilities documentation from [here](https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html#instruction-set-ref).
 
 You do not need to clone the GPGPU-Sim 4.0 by your self. The [./setup_environment.sh](./setup_environment.sh) will clone the recent GPGPU-Sim model and integrate it with Accel-Sim. For more info on the Accel-Sim front-end and how to compile, please see "Accel-Sim SASS Frontend" entry in the main read-me page [here](https://github.com/accel-sim/accel-sim-framework/blob/dev/README.md).
+# AI_gpgpusim
